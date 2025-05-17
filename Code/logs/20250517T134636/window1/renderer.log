@@ -1,7 +1,0 @@
-2025-05-17 13:46:37.041 [info] Started local extension host with pid 19044.
-2025-05-17 13:46:37.051 [info] Started initializing default profile extensions in extensions installation folder. file:///home/tyler/.vscode/extensions
-2025-05-17 13:46:37.094 [info] ComputeTargetPlatform: linux-x64
-2025-05-17 13:46:37.122 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/tyler/.vscode/extensions
-2025-05-17 13:46:37.215 [info] ChatSessionStore: Migrating 0 chat sessions from storage service to file system
-2025-05-17 13:46:37.321 [info] Settings Sync: Account status changed from uninitialized to unavailable
-2025-05-17 13:46:39.854 [info] [perf] Render performance baseline is 12ms
