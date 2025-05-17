@@ -1,6 +1,7 @@
 **Cloning the repository:**
 ```sh
-git clone <repo>
+git clone git@github.com:tylercritchlow/dotfiles.git
+# for now you must physically move the files into ~/.config after cloning
 git submodule update --init --recursive
 ```
 

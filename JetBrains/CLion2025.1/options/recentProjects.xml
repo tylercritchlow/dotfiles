@@ -1,0 +1,25 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/ladybird">
+          <value>
+            <RecentProjectMetaInfo frameTitle="ladybird – abench.cpp" opened="true" projectWorkspaceId="2xC3ReyO5A9ylsEpgavz3mZJecu">
+              <option name="activationTimestamp" value="1747429706779" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="CL-251.25410.104" />
+              <option name="buildTimestamp" value="1746539640000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="0" />
+              </option>
+              <frame x="1053" y="236" width="1400" height="1000" extendedState="6" />
+              <option name="productionCode" value="CL" />
+              <option name="projectOpenTimestamp" value="1747428223039" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastOpenedProject" value="$USER_HOME$/ladybird" />
+  </component>
+</application>

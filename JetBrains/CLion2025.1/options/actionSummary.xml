@@ -1,0 +1,10 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="WelcomeScreen.OpenDirectoryProject">
+      <i c="1" l="1747428213190" />
+    </e>
+    <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
+      <i c="1" l="1747428306621" />
+    </e>
+  </component>
+</application>

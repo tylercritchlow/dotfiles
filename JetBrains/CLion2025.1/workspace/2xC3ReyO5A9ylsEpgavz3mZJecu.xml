@@ -1,0 +1,797 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="ladybird" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="16rvcfv4qjyau">
+      <file>
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider editor-type-id="split-provider[text-editor;markdown-preview-editor]" selected="true">
+            <state split_layout="SHOW_PREVIEW" is_vertical_split="false">
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"README.md","foregroundColor":-2104859,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,96,10,24,105,99,111,110,115,47,77,97,114,107,100,111,119,110,80,108,117,103,105,110,46,115,118,103,18,24,105,99,111,110,115,47,101,120,112,117,105,47,109,97,114,107,100,111,119,110,46,115,118,103,26,29,111,114,103,46,105,110,116,101,108,108,105,106,46,112,108,117,103,105,110,115,46,109,97,114,107,100,111,119,110,40,-33,-55,-17,-63,-7,-1,-1,-1,-1,1,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/Tests/LibDNS/TestDNSResolver.cpp">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="396">
+              <caret line="22" column="14" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"TestDNSResolver.cpp","foregroundColor":-2104859,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,93,10,23,105,99,111,110,115,47,102,105,108,101,84,121,112,101,115,47,99,112,112,46,115,118,103,18,29,105,99,111,110,115,47,101,120,112,117,105,47,102,105,108,101,84,121,112,101,115,47,99,112,112,46,115,118,103,26,22,99,111,109,46,105,110,116,101,108,108,105,106,46,99,105,100,114,46,98,97,115,101,40,-21,-119,-10,-57,-3,-1,-1,-1,-1,1,48,0]}]]></tab>
+      </file>
+      <file current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Utilities/abench.cpp">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="880">
+              <caret line="47" column="60" lean-forward="true" selection-start-line="47" selection-start-column="60" selection-end-line="47" selection-end-column="60" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"abench.cpp","foregroundColor":-2104859,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,93,10,23,105,99,111,110,115,47,102,105,108,101,84,121,112,101,115,47,99,112,112,46,115,118,103,18,29,105,99,111,110,115,47,101,120,112,117,105,47,102,105,108,101,84,121,112,101,115,47,99,112,112,46,115,118,103,26,22,99,111,109,46,105,110,116,101,108,108,105,106,46,99,105,100,114,46,98,97,115,101,40,-21,-119,-10,-57,-3,-1,-1,-1,-1,1,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/Utilities/animation.cpp">
+          <provider editor-type-id="text-editor" selected="true" />
+        </entry>
+        <tab><![CDATA[{"tabTitle":"animation.cpp","foregroundColor":-2104859,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,93,10,23,105,99,111,110,115,47,102,105,108,101,84,121,112,101,115,47,99,112,112,46,115,118,103,18,29,105,99,111,110,115,47,101,120,112,117,105,47,102,105,108,101,84,121,112,101,115,47,99,112,112,46,115,118,103,26,22,99,111,109,46,105,110,116,101,108,108,105,106,46,99,105,100,114,46,98,97,115,101,40,-21,-119,-10,-57,-3,-1,-1,-1,-1,1,48,0]}]]></tab>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "C/C++": {
+      "usageCount": 3,
+      "lastUsed": 1747428863599
+    },
+    "WebPreview": {
+      "usageCount": 1,
+      "lastUsed": 1747428230744
+    },
+    "Markdown": {
+      "usageCount": 1,
+      "lastUsed": 1747428230308
+    }
+  }
+}]]></component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find />
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory"><![CDATA[{}]]></component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="C++">
+      <summary usageCount="3" lastUsage="1747428863599" />
+    </language>
+    <language id="Markdown">
+      <summary usageCount="1" lastUsage="1747428230310" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ladybird" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/tyler/ladybird}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ladybird" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/tyler/ladybird}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/tyler/ladybird/Tests}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ladybird" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/tyler/ladybird}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/tyler/ladybird/Utilities}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+          <presentation>
+            <attributes />
+            <data iconPath="expui/toolwindows/project.svg" iconPlugin="com.intellij" isLeaf="false" text="ladybird" />
+            <item name="ladybird" type="b2602c69:ProjectViewProjectNode" />
+            <presentation>
+              <attributes>
+                <map>
+                  <entry key="filePath" value="$PROJECT_DIR$" />
+                </map>
+              </attributes>
+              <data iconPath="expui/nodes/module.svg" iconPlugin="com.intellij" isLeaf="false" text="ladybird" />
+              <item name="dir{file:///home/tyler/ladybird}" type="462c0819:PsiDirectoryNode" />
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.devcontainer" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text=".devcontainer" />
+                <item name="dir{file:///home/tyler/ladybird/.devcontainer}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.github" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text=".github" />
+                <item name="dir{file:///home/tyler/ladybird/.github}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/AK" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="AK" />
+                <item name="dir{file:///home/tyler/ladybird/AK}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/Base" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="Base" />
+                <item name="dir{file:///home/tyler/ladybird/Base}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/Build" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="Build" />
+                <item name="dir{file:///home/tyler/ladybird/Build}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/Documentation" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="Documentation" />
+                <item name="dir{file:///home/tyler/ladybird/Documentation}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/Libraries" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="Libraries" />
+                <item name="dir{file:///home/tyler/ladybird/Libraries}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/Meta" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="Meta" />
+                <item name="dir{file:///home/tyler/ladybird/Meta}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/Services" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="Services" />
+                <item name="dir{file:///home/tyler/ladybird/Services}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/Tests" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="Tests" />
+                <item name="dir{file:///home/tyler/ladybird/Tests}" type="462c0819:PsiDirectoryNode" />
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/Tests/AK" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="AK" />
+                  <item name="dir{file:///home/tyler/ladybird/Tests/AK}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/Tests/ClangPlugins" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="ClangPlugins" />
+                  <item name="dir{file:///home/tyler/ladybird/Tests/ClangPlugins}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/Tests/LibCompress" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="LibCompress" />
+                  <item name="dir{file:///home/tyler/ladybird/Tests/LibCompress}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/Tests/LibCore" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="LibCore" />
+                  <item name="dir{file:///home/tyler/ladybird/Tests/LibCore}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/Tests/LibCrypto" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="LibCrypto" />
+                  <item name="dir{file:///home/tyler/ladybird/Tests/LibCrypto}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/Tests/LibDiff" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="LibDiff" />
+                  <item name="dir{file:///home/tyler/ladybird/Tests/LibDiff}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/Tests/LibDNS" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="LibDNS" />
+                  <item name="dir{file:///home/tyler/ladybird/Tests/LibDNS}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/Tests/LibGC" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="LibGC" />
+                  <item name="dir{file:///home/tyler/ladybird/Tests/LibGC}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/Tests/LibGfx" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="LibGfx" />
+                  <item name="dir{file:///home/tyler/ladybird/Tests/LibGfx}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/Tests/LibJS" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="LibJS" />
+                  <item name="dir{file:///home/tyler/ladybird/Tests/LibJS}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/Tests/LibMedia" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="LibMedia" />
+                  <item name="dir{file:///home/tyler/ladybird/Tests/LibMedia}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/Tests/LibRegex" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="LibRegex" />
+                  <item name="dir{file:///home/tyler/ladybird/Tests/LibRegex}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/Tests/LibTest" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="LibTest" />
+                  <item name="dir{file:///home/tyler/ladybird/Tests/LibTest}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/Tests/LibTextCodec" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="LibTextCodec" />
+                  <item name="dir{file:///home/tyler/ladybird/Tests/LibTextCodec}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/Tests/LibThreading" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="LibThreading" />
+                  <item name="dir{file:///home/tyler/ladybird/Tests/LibThreading}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/Tests/LibTLS" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="LibTLS" />
+                  <item name="dir{file:///home/tyler/ladybird/Tests/LibTLS}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/Tests/LibUnicode" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="LibUnicode" />
+                  <item name="dir{file:///home/tyler/ladybird/Tests/LibUnicode}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/Tests/LibURL" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="LibURL" />
+                  <item name="dir{file:///home/tyler/ladybird/Tests/LibURL}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/Tests/LibWasm" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="LibWasm" />
+                  <item name="dir{file:///home/tyler/ladybird/Tests/LibWasm}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/Tests/LibWeb" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="LibWeb" />
+                  <item name="dir{file:///home/tyler/ladybird/Tests/LibWeb}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/Tests/LibWebView" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="LibWebView" />
+                  <item name="dir{file:///home/tyler/ladybird/Tests/LibWebView}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/Tests/LibXML" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="LibXML" />
+                  <item name="dir{file:///home/tyler/ladybird/Tests/LibXML}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/Tests/Resources" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="Resources" />
+                  <item name="dir{file:///home/tyler/ladybird/Tests/Resources}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/Tests/CMakeLists.txt" />
+                    </map>
+                  </attributes>
+                  <data iconPath="icons/expui/CMake.svg" iconPlugin="com.intellij.clion" isLeaf="true" text="CMakeLists.txt" />
+                  <item name="CMakeLists.txt" type="ab9368bb:PsiFileNode" />
+                </presentation>
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/Toolchain" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="Toolchain" />
+                <item name="dir{file:///home/tyler/ladybird/Toolchain}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/UI" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="UI" />
+                <item name="dir{file:///home/tyler/ladybird/UI}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/Utilities" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="Utilities" />
+                <item name="dir{file:///home/tyler/ladybird/Utilities}" type="462c0819:PsiDirectoryNode" />
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/Utilities/abench.cpp" />
+                    </map>
+                  </attributes>
+                  <data iconPath="icons/expui/fileTypes/cpp.svg" iconPlugin="com.intellij.cidr.base" isLeaf="true" text="abench.cpp" />
+                  <item name="abench.cpp" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/Utilities/animation.cpp" />
+                    </map>
+                  </attributes>
+                  <data iconPath="icons/expui/fileTypes/cpp.svg" iconPlugin="com.intellij.cidr.base" isLeaf="true" text="animation.cpp" />
+                  <item name="animation.cpp" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/Utilities/dns.cpp" />
+                    </map>
+                  </attributes>
+                  <data iconPath="icons/expui/fileTypes/cpp.svg" iconPlugin="com.intellij.cidr.base" isLeaf="true" text="dns.cpp" />
+                  <item name="dns.cpp" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/Utilities/image.cpp" />
+                    </map>
+                  </attributes>
+                  <data iconPath="icons/expui/fileTypes/cpp.svg" iconPlugin="com.intellij.cidr.base" isLeaf="true" text="image.cpp" />
+                  <item name="image.cpp" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/Utilities/js.cpp" />
+                    </map>
+                  </attributes>
+                  <data iconPath="icons/expui/fileTypes/cpp.svg" iconPlugin="com.intellij.cidr.base" isLeaf="true" text="js.cpp" />
+                  <item name="js.cpp" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/Utilities/wasm.cpp" />
+                    </map>
+                  </attributes>
+                  <data iconPath="icons/expui/fileTypes/cpp.svg" iconPlugin="com.intellij.cidr.base" isLeaf="true" text="wasm.cpp" />
+                  <item name="wasm.cpp" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/Utilities/xml.cpp" />
+                    </map>
+                  </attributes>
+                  <data iconPath="icons/expui/fileTypes/cpp.svg" iconPlugin="com.intellij.cidr.base" isLeaf="true" text="xml.cpp" />
+                  <item name="xml.cpp" type="ab9368bb:PsiFileNode" />
+                </presentation>
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.clang-format" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/yaml.svg" iconPlugin="com.intellij" isLeaf="true" text=".clang-format" />
+                <item name=".clang-format" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.clang-tidy" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/yaml.svg" iconPlugin="com.intellij" isLeaf="true" text=".clang-tidy" />
+                <item name=".clang-tidy" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.clangd" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text=".clangd" />
+                <item name=".clangd" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.editorconfig" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text=".editorconfig" />
+                <item name=".editorconfig" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.gitattributes" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text=".gitattributes" />
+                <item name=".gitattributes" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.gitignore" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/ignored.svg" iconPlugin="com.intellij" isLeaf="true" text=".gitignore" />
+                <item name=".gitignore" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.gn" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text=".gn" />
+                <item name=".gn" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.mailmap" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text=".mailmap" />
+                <item name=".mailmap" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.pre-commit-config.yaml" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/yaml.svg" iconPlugin="com.intellij" isLeaf="true" text=".pre-commit-config.yaml" />
+                <item name=".pre-commit-config.yaml" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.prettierignore" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text=".prettierignore" />
+                <item name=".prettierignore" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.prettierrc" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/json.svg" iconPlugin="com.intellij" isLeaf="true" text=".prettierrc" />
+                <item name=".prettierrc" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.swift-format" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text=".swift-format" />
+                <item name=".swift-format" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.ycm_extra_conf.py" />
+                  </map>
+                </attributes>
+                <data iconPath="icons/com/jetbrains/python/parser/expui/python.svg" iconPlugin="PythonCore" isLeaf="true" text=".ycm_extra_conf.py" />
+                <item name=".ycm_extra_conf.py" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/CMakeLists.txt" />
+                  </map>
+                </attributes>
+                <data iconPath="icons/expui/CMake.svg" iconPlugin="com.intellij.clion" isLeaf="true" text="CMakeLists.txt" />
+                <item name="CMakeLists.txt" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/CMakePresets.json" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/json.svg" iconPlugin="com.intellij" isLeaf="true" text="CMakePresets.json" />
+                <item name="CMakePresets.json" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/CODE_OF_CONDUCT.md" />
+                  </map>
+                </attributes>
+                <data iconPath="icons/expui/markdown.svg" iconPlugin="org.intellij.plugins.markdown" isLeaf="true" text="CODE_OF_CONDUCT.md" />
+                <item name="CODE_OF_CONDUCT.md" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/CONTRIBUTING.md" />
+                  </map>
+                </attributes>
+                <data iconPath="icons/expui/markdown.svg" iconPlugin="org.intellij.plugins.markdown" isLeaf="true" text="CONTRIBUTING.md" />
+                <item name="CONTRIBUTING.md" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/ISSUES.md" />
+                  </map>
+                </attributes>
+                <data iconPath="icons/expui/markdown.svg" iconPlugin="org.intellij.plugins.markdown" isLeaf="true" text="ISSUES.md" />
+                <item name="ISSUES.md" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/LICENSE" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text="LICENSE" />
+                <item name="LICENSE" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/README.md" />
+                  </map>
+                </attributes>
+                <data iconPath="icons/expui/markdown.svg" iconPlugin="org.intellij.plugins.markdown" isLeaf="true" text="README.md" />
+                <item name="README.md" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/SECURITY.md" />
+                  </map>
+                </attributes>
+                <data iconPath="icons/expui/markdown.svg" iconPlugin="org.intellij.plugins.markdown" isLeaf="true" text="SECURITY.md" />
+                <item name="SECURITY.md" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/vcpkg.json" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/json.svg" iconPlugin="com.intellij" isLeaf="true" text="vcpkg.json" />
+                <item name="vcpkg.json" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/vcpkg-configuration.json" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/json.svg" iconPlugin="com.intellij" isLeaf="true" text="vcpkg-configuration.json" />
+                <item name="vcpkg-configuration.json" type="ab9368bb:PsiFileNode" />
+              </presentation>
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="expui/nodes/library.svg" iconPlugin="com.intellij" isLeaf="false" text="External Libraries" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="expui/fileTypes/scratches.svg" iconPlugin="com.intellij" isLeaf="true" text="Scratches and Consoles" />
+              <item name="Scratches and Consoles" type="b85a3e1f:ScratchTreeStructureProvider$MyProjectNode" />
+            </presentation>
+          </presentation>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1313000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13707766" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="bottom" id="CMake" order="5" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <window_info anchor="right" id="Meson" order="5" />
+      <unified_weights left="0.13707766" />
+    </layoutV2>
+    <recentWindows>
+      <value>Project</value>
+    </recentWindows>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SHOW_PREVIEW" is_vertical_split="false">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tests/LibDNS/TestDNSResolver.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="22" column="14" lean-forward="true" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Utilities/animation.cpp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Utilities/abench.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="880">
+          <caret line="47" column="60" lean-forward="true" selection-start-line="47" selection-start-column="60" selection-end-line="47" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
