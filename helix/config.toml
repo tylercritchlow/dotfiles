@@ -1,0 +1,5 @@
+theme = "everblush"
+
+[editor]
+# evil = false
+line-number = "relative"
